@@ -1,3 +1,6 @@
 {
-    "version": "1.0.0"
+    "name": "MohammadReza/LaravelUpload",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
 }
