@@ -1,6 +1,6 @@
 {
     "name": "MohammadReza/LaravelUpload",
     "require": {
-        "monolog/monolog": "1.0.*"
+        "MohammadReza/LaravelUpload": "1.0.*"
     }
 }
