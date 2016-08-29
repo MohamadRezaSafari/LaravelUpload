@@ -1,7 +1,6 @@
 {
     "name": "MohammadReza/LaravelUpload",
     "minimum-stability": "dev",
-    "version": "1.0.0" ,
     "require": {
         "MohammadReza/LaravelUpload": "dev-master"
     }
