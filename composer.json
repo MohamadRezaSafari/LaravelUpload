@@ -2,6 +2,6 @@
     "name": "MohammadReza/LaravelUpload",
     "minimum-stability": "dev",
     "require": {
-        "MohammadReza/LaravelUpload": "dev-master"
+        "MohammadReza/LaravelUpload": "1.0.0"
     }
 }
