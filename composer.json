@@ -1,5 +1,5 @@
 {
-  {
+  
     "name": "tymon/jwt-auth",
     "autoload": {
         "psr-4": {
@@ -8,5 +8,5 @@
     },
     "prefer-stable": true,
     "minimum-stability": "dev"
-}
+
 }
