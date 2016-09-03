@@ -1,6 +1,6 @@
 {
   
-    "name": "tymon/jwt-auth",
+    "name": "MohammadReza10/LaravelUpload",
     "autoload": {
         "psr-4": {
             "MohammadReza\\LaravelUpload\\": "/"
