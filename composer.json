@@ -1,0 +1,6 @@
+{
+  "require": {
+        "MohammadReza10/LaravelUpload": ">=5.4.0",
+    },
+  "minimum-stability" : "dev"
+}
