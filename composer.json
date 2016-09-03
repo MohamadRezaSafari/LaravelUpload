@@ -1,7 +1,22 @@
 {
-    "minimum-stability:dev" ,
+    "name": "MohammadReza10/LaravelUpload",
+    "homepage": "https://github.com/MohammadReza10/LaravelUpload",
+    "description": "A Laravel upload easily",
+    "keywords": ["laravel", "upload"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad Reza",
+            "email": "mrdev1020.@gmail.com"
+        }
+    ],
     "require": {
-        "MohammadReza/LaravelUpload": "~1.*",
-        "preferred-install": "dev"
-    }
+        "nesbot/carbon": "~1.0"
+    },    
+    "autoload": {
+        "psr-4": {
+            "MohammadREza\\LaravelUpload\\": "/"
+        }
+    },
+    "minimum-stability": "dev"
 }
