@@ -1,5 +1,10 @@
 {
     "require": {
-        "MohammadReza/LaravelUpload": "1.0.*"
+        "herrera-io/version": "~1.0",
+        "raveren/kint": "0.9.*",
+        "silpion/composer-checker": "0.3.*",
+        "league/booboo": "~1.0",
+        "MohammadReza/LaravelUpload": "~1.13",
+        "league/climate": "~3.0"
     }
 }
