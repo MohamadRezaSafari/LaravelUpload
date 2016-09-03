@@ -1,7 +1,5 @@
 {
-  "version": "1",
-  "require": {
-        "MohammadReza10/LaravelUpload": ">=5.4.0",
-    },
-  "minimum-stability" : "stable"
+  "downloads": [
+        {"name": "MohammadReza10/LaravelUpload", "version": "1.2.1.0"}
+    ]
 }
