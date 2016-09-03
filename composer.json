@@ -1,5 +1,4 @@
 {
-    "name": "MohammadReza/LaravelUpload",
     "require": {
         "MohammadReza/LaravelUpload": "1.0.*"
     }
